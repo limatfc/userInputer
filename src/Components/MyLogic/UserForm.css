@@ -1,0 +1,16 @@
+.TopWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Input1,
+.Input2 {
+  background-color: white;
+  padding: 5px;
+}
+
+label {
+  font-size: 120%;
+}
